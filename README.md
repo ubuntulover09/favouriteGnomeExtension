@@ -19,7 +19,7 @@ https://extensions.gnome.org/extension/905/refresh-wifi-connections/
 https://extensions.gnome.org/extension/19/user-themes/
 https://extensions.gnome.org/extension/104/netspeed/
 
-
+https://extensions.gnome.org/extension/1218/printers/
 https://extensions.gnome.org/extension/6/applications-menu/
 
 
